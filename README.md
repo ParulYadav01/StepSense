@@ -26,7 +26,7 @@ This system can be particularly useful for:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/dhananjay6561/object-detection-distance-estimation.git
+   git clone https://github.com/ParulYadav01/StepSense.git
    cd StepSense
    ```
 
